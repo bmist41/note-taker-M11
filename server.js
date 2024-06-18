@@ -2,8 +2,9 @@ const express = require('express');
 const path = require('path');
 
 const PORT = process.env.PORT || 3000;
-app.use(express.urlencoded({ extended: false }));
+
 const app = express();
+app.use(express.urlencoded({ extended: false }));
 
 // Middleware to parse JSON
 app.use(express.static(path.join(__dirname, 'public')));
