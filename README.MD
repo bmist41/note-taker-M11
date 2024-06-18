@@ -11,6 +11,9 @@ This is a Express.js program that provides the BE functionality to the starter h
 
 The program allows the user to leverage three API methods, GET/POST/DELETE, to see existing notes, add new notes, and delete completed notes.
 
+Link to deployed site:
+https://note-taker-m11.onrender.com
+
 
 ## Usage
 To use the application, follow the steps provided below.
