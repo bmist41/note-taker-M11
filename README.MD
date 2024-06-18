@@ -1,4 +1,5 @@
 # Note-Generator-M11
+
 ## Table of Contents
 * [Description](#description)
 * [Usage](#usage)
@@ -6,7 +7,7 @@
     
 
 ## Description
-This is a express.js program that provides the BE functionality to the starter html/js/css code provided.
+This is a Express.js program that provides the BE functionality to the starter html/js/css code provided.
 
 The program allows the user to leverage three API methods, GET/POST/DELETE, to see existing notes, add new notes, and delete completed notes.
 
