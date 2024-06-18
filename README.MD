@@ -22,12 +22,6 @@ To use the application, follow the steps provided below.
 
 ![Screenshot](assets/screenshots/screenshot1.png)
 
-
-
-
-[Please see this video demo.]()
-
-
 ## License
 This project is licensed under the MIT License. For more information, please see the [MIT License](https://opensource.org/licenses/MIT).
 
