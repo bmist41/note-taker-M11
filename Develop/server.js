@@ -1,13 +1,14 @@
 const express = require('express');
 const path = require('path');
-const app = express();
 
 const PORT = process.env.PORT || 3000;
 
+const app = express();
+
 // Middleware to parse JSON
-app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/api/notes', require('./routes/apiRoutes'));
+app.use(express.json());
 
 // Route for the notes page
 app.get('/notes', (req, res) => {
