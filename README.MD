@@ -20,7 +20,7 @@ To use the application, follow the steps provided below.
 5. Navigate to http://localhost:3000/notes and test the functionality
 6. You can test all three API methods using a Postmate/Insomnia and providing the JSON information manually.
 
-![Screenshot](assets/screenshots/screenshot1.png)
+![Screenshot](Develop/public/assets/screenshots/screenshot1.png)
 
 ## License
 This project is licensed under the MIT License. For more information, please see the [MIT License](https://opensource.org/licenses/MIT).
